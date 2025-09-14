@@ -1,10 +1,15 @@
-#### Atividade 01 - Lista encadeada Dupla
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java Icon" height="40" width="40">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" alt="Vim Icon" height="40" width="40">
+</p>
 
-O objetivo de se desenvolver estruturas de dados ao invés de usar uma existente é que nesta disciplina pode-se exercitar o programador com atividades simples e sem a complexidade de uma interface gráfica, ou seja, é só o programador e sua lógica.
+# Estrutura de Dados
 
-![[./Atividade 01.png]]
-
-Para exercitar, vamos criar uma estrutura de dados diferente, trata-se de uma lista duplamente encadeada no qual possui um Nó que possui uma lista encadeada simples. Uma lista simples e uma lista dupla, como seria? Vamos exemplificar.
+## Atividade Lista encadeada Dupla
+<p align="center">
+  <img src="./Atividade 01.png" style="width: 500px; height: auto;" alt="Descrição" />
+</p>
+Vamos criar uma estrutura de dados diferente, trata-se de uma lista duplamente encadeada no qual possui um Nó que possui uma lista encadeada simples. Uma lista simples e uma lista dupla, como seria? Vamos exemplificar.
 
 Ao adicionar José, a ferramenta tem que achar na Lista Dupla o nó referente a letra J e então adicionar José na lista encadeada simples, ambas as listas devem estar ordenadas, e a medida que se adiciona já se adiciona de forma ordenada.
 
@@ -17,4 +22,4 @@ Para remover, basta eliminar as referências de José na lista simples e se nenh
 - Localizar pessoa;
 - Remover pessoa.
 
-O resto é sua lógica e sua criatividade.
+---
