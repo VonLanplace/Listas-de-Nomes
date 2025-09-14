@@ -2,7 +2,7 @@
 
 O objetivo de se desenvolver estruturas de dados ao invés de usar uma existente é que nesta disciplina pode-se exercitar o programador com atividades simples e sem a complexidade de uma interface gráfica, ou seja, é só o programador e sua lógica.
 
-![[Img/5 - Lista Dupla/Atividade 01.png]]
+![[./Atividade 01.png]]
 
 Para exercitar, vamos criar uma estrutura de dados diferente, trata-se de uma lista duplamente encadeada no qual possui um Nó que possui uma lista encadeada simples. Uma lista simples e uma lista dupla, como seria? Vamos exemplificar.
 
